@@ -653,6 +653,9 @@ footer {
 .project-image {
     float: left;
 }
+.project-image {
+    
+}
 
 .project-info {
     position: absolute;
@@ -660,7 +663,7 @@ footer {
     transform: translateY(-50%);
     margin-left: 300px;
     padding: 15px;
-	text-align: left;
+    text-align: left;
 
     h3 {
         font-size: 1.5em;
@@ -960,6 +963,9 @@ footer {
     }
 
     .project-image {
+        display: none;
+    }
+    .profile-image {
         display: none;
     }
 
